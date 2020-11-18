@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Template for Webpack_
 
 #### _{Brief description of application}, {Date of current version}_
 
-#### By _**Template for Webpack**_
+#### By _**Name**_
 
 ## Description
 
